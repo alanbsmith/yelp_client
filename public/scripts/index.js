@@ -14,7 +14,7 @@ var Navbar = React.createClass({
           </div>
           <div id="navbar" className="collapse navbar-collapse">
             <ul className="nav navbar-nav">
-              <li><a href="https://github.com/alanbsmith/" target="blank">view the repo</a></li>
+              <li><a href="https://github.com/alanbsmith/yelp_client" target="blank">view the repo</a></li>
               <li><a href="https://github.com/alanbsmith/rails_yelp_api" target="blank">view the rails api</a></li>
               <li><a href="https://facebook.github.io/react/index.html" target="blank">get started with react</a></li>
             </ul>
