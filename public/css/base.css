@@ -1,0 +1,41 @@
+body {
+  margin-top: 60px;
+}
+
+p {
+  margin-bottom: 0px;
+}
+
+.jumbotron {
+  height: 200px;
+}
+
+.btn {
+  border-radius: 0px;
+}
+
+#result-count {
+  font-size: 36px;
+  color: #2196F3;
+  position: relative;
+}
+
+.panel {
+  border-radius: 0px;
+}
+
+.panel-title {
+  font-size: 24px;
+}
+
+.panel-heading {
+  height: 60px;
+  background-color: #f9f9f9;
+  border-width: 1px;
+}
+
+.panel-body {
+  color: #262626;
+}
+
+
