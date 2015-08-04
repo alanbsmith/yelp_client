@@ -1,5 +1,6 @@
 body {
   margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 p {
@@ -12,6 +13,16 @@ p {
 
 .btn {
   border-radius: 0px;
+}
+
+.col-md-8 {
+  height: 145px;
+}
+
+.btn-danger {
+  width: 83px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #result-count {
@@ -38,4 +49,9 @@ p {
   color: #262626;
 }
 
-
+#map {
+  width:80%; 
+  height:50%; 
+  display:inline-block;
+  text-align:left;
+}
